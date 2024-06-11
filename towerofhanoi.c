@@ -1,4 +1,4 @@
-// Program to display tower of hanoi.
+// Program to display tower of hanoi by taking input as no. of discs and giving output as total no. of moves.
 
 #include<stdio.h>
 
